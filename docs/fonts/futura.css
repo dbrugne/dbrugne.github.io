@@ -1,0 +1,77 @@
+/* light */
+@font-face {
+    font-family: 'Futura Sans';
+    src: url('futura light bt.ttf');
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Futura Sans';
+    src: url('Futura Light Italic font.ttf');
+    font-weight: 300;
+    font-style: italic;
+}
+
+/* normal */
+@font-face {
+    font-family: 'Futura Sans';
+    src: url('Futura Book font.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Futura Sans';
+    src: url('Futura Book Italic font.ttf');
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* medium */
+@font-face {
+    font-family: 'Futura Sans';
+    src: url('futura medium bt.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Futura Sans';
+    src: url('Futura Medium Italic font.ttf');
+    font-weight: 500;
+    font-style: italic;
+}
+
+/* semi-bold */
+@font-face {
+    font-family: 'Futura Sans';
+    src: url('Futura Heavy font.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'Futura Sans';
+    src: url('Futura Heavy Italic font.ttf');
+    font-weight: 600;
+    font-style: italic;
+}
+
+/* bold */
+@font-face {
+    font-family: 'Futura Sans';
+    src: url('futur.ttf');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Futura Sans';
+    src: url('Futura Bold Italic font.ttf');
+    font-weight: 700;
+    font-style: italic;
+}
+
+/* extra-black */
+@font-face {
+    font-family: 'Futura Sans';
+    src: url('Futura Extra Black font.ttf');
+    font-weight: 900;
+}
+@font-face {
+    font-family: 'Futura Sans';
+    src: url('tt0205m_.ttf');
+    font-weight: 900;
+    font-style: italic;
+}
