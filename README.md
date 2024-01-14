@@ -3,8 +3,8 @@
 Todo : 
 - [x] Create homepage with content and TailwindCSS design
 - [x] Deploy on Github Pages
+- [x] Add SEO headers
 - [ ] Check mobile responsive
 - [ ] Add a favicon
-- [ ] Decline to english
-- [ ] Add SEO headers
 - [ ] Implement Google Analytics
+- [ ] Decline to english in en.html
