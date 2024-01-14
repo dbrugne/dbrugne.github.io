@@ -52,7 +52,7 @@
 <body class="w-full">
 <div class="">
     <!-- site identity -->
-    <header class="mx-auto max-w-7xl flex items-center justify-between pt-16 px-8" aria-label="Global">
+    <header class="mx-auto max-w-7xl flex flex-col md:flex-row items-center justify-between md:pt-16 md:px-8 gap-4" aria-label="Global">
         <div class="w-36 -m-1.5 p-1.5">&nbsp;</div>
         <div class="grow -m-1.5 p-1.5">
             <h1 class="uppercase text-xl text-center tracking-widest font-medium">Damien Brugne</h1>
@@ -87,8 +87,8 @@ M469.149,376.213L337.935,244.999l131.214-131.214V376.213z"/></svg>
     </header>
     <main class="flex flex-col">
         <!-- skills -->
-        <div class="h-[38rem] pb-16 mt-14 flex items-center justify-center bg-[#FFFEFC]">
-            <ul class="text-2xl italic flex flex-col gap-4">
+        <div class="md:h-[38rem] pb-16 mt-14 flex items-center justify-center bg-[#FFFEFC]">
+            <ul class="text-base md:text-xl italic flex flex-col gap-4 uppercase font-light p-8">
                 <li class="flex gap-x-4 items-center">
                     <span class="text-[#D2CDBA]">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" class="w-6 h-6"><path
@@ -143,19 +143,16 @@ M469.149,376.213L337.935,244.999l131.214-131.214V376.213z"/></svg>
             </ul>
         </div>
         <!-- about -->
-        <div class="mx-auto max-w-7xl p-6 lg:px-8 -mt-12 flex justify-center bg-[#CECABB] shadow-lg">
-            <div class="flex-none ml-12 -my-12">
+        <div class="mx-auto max-w-7xl p-6 lg:px-8 -mt-12 flex flex-col md:flex-row justify-center bg-[#CECABB] shadow-lg">
+            <div class="flex-none ml-12 md:-my-12">
                 <img
                         alt="Damien Brugne"
                         class="h-[30em] rounded-2xl shadow-lg"
                         style="object-fit: cover; object-position: 90% center;" src="medias/headshot.jpg"
                 >
             </div>
-            <div class="grow mx-12 relative flex items-center">
-<!--                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-56 h-56 absolute left-0 top-0 text-amber-50/20">-->
-<!--                    <path stroke-linecap="round" stroke-linejoin="round" d="M17.593 3.322c1.1.128 1.907 1.077 1.907 2.185V21L12 17.25 4.5 21V5.507c0-1.108.806-2.057 1.907-2.185a48.507 48.507 0 0 1 11.186 0Z" />-->
-<!--                </svg>-->
-                <div class="text-2xl italic font-medium text-white leading-10">
+            <div class="grow mx-12 flex items-center">
+                <div class="text-xl lg:text-2xl md:leading-10 mt-8 italic font-medium text-white">
                     20+ années d'expériences en direction de programmes,
                     <br/>plusieurs dizaines de projets réussis et d'équipes consituées,
                     <br/>au sein de nombreuses industries critiques ou d'intérêts vitales,
@@ -164,7 +161,7 @@ M469.149,376.213L337.935,244.999l131.214-131.214V376.213z"/></svg>
             </div>
         </div>
         <!-- testimonials -->
-        <div class="mx-auto max-w-7xl p-6 lg:px-8 mt-14 px-24">
+        <div class="mx-auto max-w-7xl p-6 lg:px-8 mt-14 md:px-24">
             <h2 class="text-xl text-center uppercase">Ils me font confiance</h2>
             <div class="mt-8 grid grid-cols-1 lg:grid-cols-2 gap-10 px-12">
                 <div class="flex flex-col border border-gray-300 bg-[#FFFEFC]/20 hover:bg-[#CECABB] rounded-lg px-6 py-4">

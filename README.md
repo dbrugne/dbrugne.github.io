@@ -9,7 +9,7 @@ Todo :
 - [x] Add real DNS
 - [ ] Fix HTTPS
 - [x] Complete design
-- [ ] Check mobile responsive
+- [x] Check mobile responsive
 - [ ] Decline to english in en.html
 
 Paleton : https://paletton.com/#uid=11l0u0k1kuK00++0lIK2XpS5DlD
