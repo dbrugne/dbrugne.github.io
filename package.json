@@ -1,0 +1,25 @@
+{
+  "name": "damienbrugne.github.io",
+  "version": "1.0.0",
+  "description": "Todo :  - [x] Create homepage with content and TailwindCSS design - [x] Deploy on Github Pages - [x] Add SEO headers - [x] Add a favicon - [x] Implement Google Analytics - [x] Add real DNS - [ ] Fix HTTPS - [ ] Complete design - [ ] Check mobile responsive - [ ] Decline to english in en.html",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbrugne/dbrugne.github.io.git"
+  },
+  "author": "dbrugne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbrugne/dbrugne.github.io/issues"
+  },
+  "homepage": "https://github.com/dbrugne/dbrugne.github.io#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
