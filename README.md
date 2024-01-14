@@ -6,6 +6,6 @@ Todo :
 - [x] Add SEO headers
 - [ ] Check mobile responsive
 - [ ] Add a favicon
-- [ ] Implement Google Analytics
+- [x] Implement Google Analytics
 - [ ] Add real DNS
 - [ ] Decline to english in en.html
