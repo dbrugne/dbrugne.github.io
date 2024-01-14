@@ -7,4 +7,5 @@ Todo :
 - [ ] Check mobile responsive
 - [ ] Add a favicon
 - [ ] Implement Google Analytics
+- [ ] Add real DNS
 - [ ] Decline to english in en.html
